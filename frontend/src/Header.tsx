@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function TopBanner(props: any) {
   return (
     <div className="row">
-      <div className="col-4">
+      <div className="col-5">
         <br />
         <img
           src="./JoelHiltonHeadshot.jpg"
